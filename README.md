@@ -5,24 +5,13 @@ Skills
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height='20'/> Java</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height='20'/> Dart</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height='20'/> C</li>
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height='20'/> GoLang</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height='20'/> Python</li>
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='20'/> HTML</li>
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height='20'/> CSS</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='20'/> JavaScript</li>
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height='20'/> TypeScript</li>
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height='20'/> PHP</li>
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height='20'/> MySQL</li>
 <br>
 
 Frameworks & tools
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height='20'/> Flutter</li>
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height='20'/> Laravel</li>
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height='20'/> AngularJS</li>
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height='20'/> VueJS</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height='20'/> Node.js</li>
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height='20'/> Bootstrap</li>
-<li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height='20'/> JQuery</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height='20'/> Heroku</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height='20'/> Visual Studio Code</li>
 <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height='20'/> Docker</li>
